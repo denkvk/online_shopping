@@ -15,6 +15,11 @@
     <name>online_shopping</name>
     <description>Demo project for Spring Boot</description>
     <properties>
+
+  <sonar.projectKey>denkvk_online_shopping</sonar.projectKey>
+  <sonar.organization>denkvk</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
         <java.version>15</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
